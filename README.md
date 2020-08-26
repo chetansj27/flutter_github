@@ -28,4 +28,7 @@ print("Location: ${_flutterGithub.location}")
 ### Example
 [See Example](https://pub.dev/packages/flutter_github/example)
 
+![Image1](https://github.com/csj5483/flutter_github/blob/master/ScreenShots/image1.png) 
+![Image2](https://github.com/csj5483/flutter_github/blob/master/ScreenShots/image2.png)
+
 #### Created By [Chetan](https://github.com/csj5483)
