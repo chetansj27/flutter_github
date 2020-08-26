@@ -1,7 +1,6 @@
 name: flutter_github
 description: A new Flutter plugin to get details of Github account of any user such as name, bio, profile image and other details.
-version: 0.0.4
-
+version: 0.0.5
 homepage: https://github.com/csj5483/flutter_github
 
 environment:
